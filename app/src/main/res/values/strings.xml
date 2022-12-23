@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Java Quiz</string>
+    <string name="welcome_to_java_quiz">Welcome To Java Quiz</string>
+    <string name="todo">TODO</string>
+    <string name="_1_java_was_intruduced_in_1923">1. Java Was Intruduced In 1923 ?</string>
+    <string name="no">False</string>
+    <string name="yes">True</string>
+    <string name="restart">restart</string>
+    <string name="congratulations_you_reached_the_end">Congratulations!!! You Reached The End</string>
+    <string name="todo2">TODO</string>
+</resources>
